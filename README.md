@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on Robotics
-- 📫 How to reach me ̶R̶o̶b̶o̶t̶i̶c̶s wait no... just send me a DM
+- 📫 How to reach me ̶R̶o̶b̶o̶t̶i̶c̶s
 
 <!---
 SeaD4wg/SeaD4wg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
